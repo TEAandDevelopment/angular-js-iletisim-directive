@@ -20,3 +20,4 @@ myApp.directive("iletisimBilgilerim", function () {
         templateUrl: "views/partial/contact.html"
     };
 });
+
